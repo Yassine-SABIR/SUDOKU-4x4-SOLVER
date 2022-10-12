@@ -36,4 +36,4 @@ def soduko(s):
                     v=[b,c,k,m]
                     if isdr(v)==True and isdt(v)==True:
                         return np.array(v)
-    print('pas de solutions')
+    print('No solutions!')
