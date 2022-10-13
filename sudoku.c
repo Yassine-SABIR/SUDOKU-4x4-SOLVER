@@ -1,3 +1,4 @@
+//   SABIR Yassine
 #include<stdio.h>
 
 void lire(int *t,int N,int M){
